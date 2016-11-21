@@ -2,7 +2,7 @@ import praw
 
 user_agent = ("Discogs App");
 REDDIT_USERNAME = "digs1711";
-REDDIT_PASS = "oZ5UsxEwe1O1PnLO0y1L";
+REDDIT_PASS = "matchy123";
 
 
 

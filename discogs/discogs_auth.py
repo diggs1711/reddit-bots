@@ -1,3 +1,6 @@
 import discogs_client 
 
-d = discogs_client.Client("reddit_app_1")
+def authorize() :
+	return discogs_client.Client("reddit_app_1", user_token="zjpiAzjJBwvJqYqzRMMuIkapCsbpqVmzBxPlEdtR")
+
+
