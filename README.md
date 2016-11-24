@@ -1,5 +1,9 @@
 # reddit-bots
-discogs bot - reads the title of reddit subsmission and search for song on discogs. Posts comment on submission with details about the record.
+discogs_bot - reads the title of reddit subsmission and searchs for the song on discogs. Posts a comment on submission with details about the record, including the price, how many have it, year of release, The rest of the songs on the record and a link to the discogs page.
+
+Used mainly for /r/truehouse
+
+Title format should be:  Artist - Title (Year) (Label) for best performance.
 
 References:
 
